@@ -1,9 +1,5 @@
 ##Initiate Git Flow in Master
- - Master branch (checked out 2 branchs : edited this line from remote merge branch 1)
- - add this line in remote merge branch 1
+ - Master branch - Update this line in remote merge 1 branch
+ - Test Remote Merge 1( Added this line in remote merge 1 branch)
 
 - simple test
-
-
-
-
